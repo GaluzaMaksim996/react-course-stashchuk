@@ -1,0 +1,2 @@
+export const ADD_CURRENT_TIME = 'ADD_CURRENT_TIME'
+export const REMOVE_ALL_TIMES = 'REMOVE_ALL_TIMES'
